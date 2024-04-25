@@ -1,0 +1,22 @@
+.btn-div {
+  margin: 50px 40px;
+  display: block;
+}
+
+.red-button {
+  display: block;
+  margin: auto;
+  width: 15%;
+}
+
+#text-change {
+  margin: auto 20px;
+}
+
+.headder-text {
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: xx-large;
+  display: block;
+  margin: auto;
+}
